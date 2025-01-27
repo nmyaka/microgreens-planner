@@ -110,9 +110,8 @@ After testing, deploy the API to a stage (e.g., `dev`, `prod`).
 ---
 
 ## Future Enhancements
-- Add a front-end interface for visualizing batches.
+- Add a simple front-end interface for visualizing batches.
 - Integrate notifications for batch status updates.
-- Enable authentication using Amazon Cognito.
 
 ---
 
